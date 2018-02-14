@@ -1,0 +1,15 @@
+{
+  "name": "tree/view",
+  "authors": [
+    {
+      "name": "slamcheg",
+      "email": "slamcheg@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Application\\": "src"
+    }
+  }
+}
